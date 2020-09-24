@@ -11,7 +11,7 @@ namespace WebAPI_Project.Controllers
     {
         //GET api/Greeting/{id}
         /// <summary>
-        /// returns the greeting massege
+        /// returns the greeting message
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
