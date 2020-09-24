@@ -7,9 +7,9 @@ using System.Web.Http;
 
 namespace WebAPI_Project.Controllers
 {
-    public class HostingFNController : ApiController
+    public class HostingCostController : ApiController
     {
-        //Get api/HostingFN/{id}
+        //Get api/HostingCost/{id}
         public IEnumerable<string> Get(int id)
         {
             double fortnights = id / 14;
